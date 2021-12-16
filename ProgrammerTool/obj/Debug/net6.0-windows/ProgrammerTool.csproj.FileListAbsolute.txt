@@ -18,3 +18,4 @@ D:\openSource\程序员工具\ProgrammerTool\obj\Debug\net6.0-windows\Programmer
 D:\openSource\程序员工具\ProgrammerTool\obj\Debug\net6.0-windows\ProgrammerTool.genruntimeconfig.cache
 D:\openSource\程序员工具\ProgrammerTool\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 D:\openSource\程序员工具\ProgrammerTool\obj\Debug\net6.0-windows\ProgrammerTool.csproj.CopyComplete
+D:\openSource\程序员工具\ProgrammerTool\bin\Debug\net6.0-windows\NSQLFormatter.Standard.dll
